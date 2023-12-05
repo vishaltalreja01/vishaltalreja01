@@ -4,6 +4,28 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
+## Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/vishaltalreja01"><img src="https://github.com/vishaltalreja01.png" alt="@vishaltalreja01" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/vishaltalreja01"><b>vishaltalreja01</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/vishaltalreja01"> <img src="https://komarev.com/ghpvc/?username=vishaltalreja01&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 ## 🧰 Languages and Tools
 
