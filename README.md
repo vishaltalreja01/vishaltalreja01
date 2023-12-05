@@ -1,5 +1,4 @@
-## Introduction
-<h3>Hey there, I'm <a href="https://github.com/vishaltalreja01">🏄‍♂️ Vishal Kumar</a></h3>
+# 🏄‍♂️ Vishal Kumar
 
 **`Data Analyst (Developer/Filmmaker/Creator)`**
 
