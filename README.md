@@ -9,11 +9,18 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
-#
 
 ## 📊 My Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/vishaltalreja01">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 #
 <!--
