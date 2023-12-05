@@ -1,5 +1,5 @@
 ## Introduction
-# 🏄‍♂️ Vishal Kumar
+<h3 align="center">Hey there, I'm <a href="https://github.com/vishaltalreja01">🏄‍♂️ Vishal Kumar</a></h3>
 
 **`Data Analyst (Developer/Filmmaker/Creator)`**
 
