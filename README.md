@@ -43,7 +43,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox"/>
 </a> 
 </p>
-#
 
 ##Connect with Me
 <p align='center'>
@@ -51,6 +50,8 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://www.linkedin.com/in/muhammad-arslan-shahzad/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='50' height='50' /></a>
 <a href="https://twitter.com/Shahzad_MArslan"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='50' height='50' /></a>
 </p>
+
+#
 <!--
 **vishaltalreja01/vishaltalreja01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
