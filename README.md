@@ -16,9 +16,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## Activity On GitHub
 
-<p align="center">
+<p>
   <a href="https://github.com/vishaltalreja01">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox&stroke=f53b3b"/>
 </a> 
 </p>
 
