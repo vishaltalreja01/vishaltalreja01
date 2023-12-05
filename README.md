@@ -6,7 +6,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
