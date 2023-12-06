@@ -44,6 +44,7 @@ I'm an indie full-stack developer and content creator building my version of the
 </a> 
 </p>
 
+#
 ##Connect with Me
 <p align='center'>
 <a href="mailto:marslanshahzad14@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='50' height='50'/></a>
@@ -51,7 +52,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://twitter.com/Shahzad_MArslan"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='50' height='50' /></a>
 </p>
 
-#
 <!--
 **vishaltalreja01/vishaltalreja01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
