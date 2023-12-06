@@ -44,10 +44,10 @@ I'm an indie full-stack developer and content creator building my version of the
 </a> 
 </p>
 
-## Activity On GitHub
-<p align='center'>
-<a href="mailto:marslanshahzad14@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='50' height='50'/></a>
-<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='50' height='50' /></a>
+## Contact Me 
+<p>
+<a href="mailto:vishaltalreja01@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='50' height='50'/></a>
+<a href="https://www.linkedin.com/in/vishalktalreja01/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='50' height='50' /></a>
 <a href="https://twitter.com/Shahzad_MArslan"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='50' height='50' /></a>
 </p>
 
