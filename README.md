@@ -29,14 +29,15 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## 🧰 Languages and Tools
 
-//<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"></a> </p>
+<!--<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"></a> </p>-->
 <p>
-  
-<img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
-<img title="Figma" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
+<img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
 ## 📊 My Stats
+![profile pic (1)](https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/714fe071-2d3d-4d73-98b9-52b707007658)
+
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox)
 
