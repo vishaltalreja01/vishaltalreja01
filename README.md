@@ -29,7 +29,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## 🧰 Languages and Tools
 
-<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"></a><img src="https://www.svgrepo.com/show/475689/anaconda-svgrepo-com.svg" width="40" height="40"> </p>
+<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"></a> </p>
 
 
 ## 📊 My Stats
@@ -49,6 +49,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="mailto:vishaltalreja01@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='40' height='40'/></a>
 <a href="https://www.linkedin.com/in/vishalktalreja01/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='40' height='40' /></a>
 <a href="https://twitter.com/vishalktalreja"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='40' height='40' /></a>
+<img src="https://www.svgrepo.com/show/475689/anaconda-svgrepo-com.svg" width="40" height="40">
 </p>
 
 <!--
