@@ -29,8 +29,12 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## 🧰 Languages and Tools
 
-<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"><img src="https://www.svgrepo.com/show/473533/anaconda.svg" width="40" height="40"></a> </p>
-
+//<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"></a> </p>
+<p>
+  
+<img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
+<img title="Figma" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
 
 ## 📊 My Stats
 
