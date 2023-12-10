@@ -35,11 +35,11 @@ I'm an indie full-stack developer and content creator building my version of the
 <img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
-##📊 My Stats
+## 📊 My Stats
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox)
 
-##Activity On GitHub
+## Activity On GitHub
   <p>
     <a href="https://github.com/vishaltalreja01">      
   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox"/>
