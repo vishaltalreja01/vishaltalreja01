@@ -36,8 +36,6 @@ I'm an indie full-stack developer and content creator building my version of the
 </p>
 
 ## 📊 My Stats
-![profile pic (1)](https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/714fe071-2d3d-4d73-98b9-52b707007658)
-
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox)
 
