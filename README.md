@@ -6,7 +6,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## Profile Views
 
-
   <table>
     <tr>
       <th>Total Count</th>
@@ -34,8 +33,6 @@ I'm an indie full-stack developer and content creator building my version of the
   <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
   <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
-
-
 </p>
 
 ## Connect with me:
@@ -46,9 +43,6 @@ I'm an indie full-stack developer and content creator building my version of the
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j471n/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@j471n.in)
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 27th, 2022, 12:11:04 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 My Github History
 
@@ -67,7 +61,18 @@ Last Updated: Sunday, November 27th, 2022, 12:11:04 PM
 
 
 <details>
+  <summary>🏆 Github Trophies</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishaltalreja01&theme=nord" alt="Vishal's Github Activity Graph" />
+</details>
+
+<details>
   <summary>🖱️ Most used languages</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaltalreja01&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="Vishal's Github Language Stats" />
 </details>
+
+<br>
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, December 10th, 2023, 04:30:00 PM
+<!--RECENT_ACTIVITY:last_update_end-->
