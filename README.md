@@ -39,13 +39,13 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox)
 
-## Activity On GitHub
-
-<p>
-  <a href="https://github.com/vishaltalreja01">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox"/>
-</a> 
-</p>
+<details>
+<summary>## Activity On GitHub</summary>
+  <p>
+    <a href="https://github.com/vishaltalreja01">      
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox"/>
+  </a> 
+  </p>
 
 ## Contact Me 
 <p>
