@@ -9,18 +9,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/vishaltalreja01"><img src="https://github.com/vishaltalreja01.png" alt="@vishaltalreja01" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/vishaltalreja01"><b>vishaltalreja01</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
       <td>
          <a href="https://github.com/vishaltalreja01"> <img src="https://komarev.com/ghpvc/?username=vishaltalreja01&style=for-the-badge&color=brightgreen"> </a>
       </td>
@@ -29,10 +20,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## 🧰 Languages and Tools
 
-<!--<p align="left"> <a href="https://github.com/vishaltalreja01"><img src="https://skillicons.dev/icons?i=python,vscode,github,html,css,js,php"></a> </p>-->
 <p>
   <img title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img title="Anaconda" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/e459280b-61f0-4ea8-bbe1-4197d138ab02">
+  <img title="Tablue" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/d6c1538c-c6a5-40a3-9855-f8f22c4f1e8e">
   <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
   <img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -43,40 +34,40 @@ I'm an indie full-stack developer and content creator building my version of the
   <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
   <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
-  <img title="GitHub" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/d6c1538c-c6a5-40a3-9855-f8f22c4f1e8e">
 
 
 </p>
 
-## 📊 My Stats
+## Connect with me:
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j471n_)
+[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/j471n#gh-light-mode-only)
+[![devto](https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=black)](https://dev.to/j471n#gh-dark-mode-only)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j471n/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@j471n.in)
 
-## Activity On GitHub
-  <p>
-    <a href="https://github.com/vishaltalreja01">      
-  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaltalreja01&theme=gruvbox"/>
-  </a> 
-  </p>
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, November 27th, 2022, 12:11:04 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
-## Contact Me 
-<p>
-<a href="mailto:vishaltalreja01@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" width='40' height='40'/></a>
-<a href="https://www.linkedin.com/in/vishalktalreja01/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width='40' height='40' /></a>
-<a href="https://twitter.com/vishalktalreja"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg"  widht='40' height='40' /></a>
-</p>
+## 📊 My Github History
 
-<!--
-**vishaltalreja01/vishaltalreja01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>⚡ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox&hide_border=true" alt="Vishal's Github Stats" />
+</details>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>🔥 GitHub Streak Stats</summary>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vishaltalreja01&theme=gruvbox&hide_border=true" alt="Vishal's GitHub Streak Stats" />
+</details>
+
+
+<details>
+  <summary>🖱️ Most used languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaltalreja01&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="Vishal's Github Language Stats" />
+</details>
