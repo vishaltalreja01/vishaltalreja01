@@ -1,8 +1,8 @@
 # 🏄‍♂️ Vishal Kumar
 
-**`Data Analyst`**
+**`Frontend Developer`**
 
-I'm an Vishal Kumar Data Analyst and Web Developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an Vishal Kumar a Frontend Developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ## Profile Views
 
@@ -73,5 +73,5 @@ I'm an Vishal Kumar Data Analyst and Web Developer building my version of the di
 
 <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 04:30:00 PM
+Last Updated: Saturday, April 26th, 2025, 03:30:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
