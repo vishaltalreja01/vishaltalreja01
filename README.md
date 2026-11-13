@@ -60,8 +60,8 @@ More on my [portfolio →](https://vishal-talreja.netlify.app)
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&hide_border=true&theme=transparent&title_color=E8501B&icon_color=E8501B" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaltalreja01&layout=compact&hide_border=true&theme=transparent&title_color=E8501B" alt="Most used languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishaltalreja01&theme=transparent" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishaltalreja01&theme=transparent" alt="Most used languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=vishaltalreja01&hide_border=true&theme=transparent&ring=E8501B&fire=E8501B&currStreakLabel=E8501B" alt="GitHub streak" />
