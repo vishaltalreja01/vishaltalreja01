@@ -1,77 +1,67 @@
-# 🏄‍♂️ Vishal Kumar
+<h1 align="center">Hi, I'm Vishal Kumar 👋</h1>
 
-**`Frontend Developer`**
-
-I'm an Vishal Kumar a Frontend Developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-
-## Profile Views
-
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/vishaltalreja01"> <img src="https://komarev.com/ghpvc/?username=vishaltalreja01&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-
-## 🧰 Languages and Tools
-
-<p>
-  <img title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="Anaconda" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/e459280b-61f0-4ea8-bbe1-4197d138ab02">
-  <img title="Tablue" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/d6c1538c-c6a5-40a3-9855-f8f22c4f1e8e">
-  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
-  <img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>                    
-  <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
-  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
+<p align="center">
+  <b>Lead Full Stack Developer</b> at <a href="https://www.volantinopiu.com/">Volantinopiù Srl</a> · Salerno, Italy
 </p>
 
-## Connect with me:
+<p align="center">
+  <a href="https://vishal-talreja.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vishaltalreja01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vishaltalreja01@gmail.com"><img src="https://img.shields.io/badge/Email-E8501B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://facebook.com/vishaltalreja01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalktalreja)
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalktalreja01/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaltalreja01@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20work%20%26%20freelance-22c55e?style=flat-square" alt="Open to work and freelance" />
+  <img src="https://komarev.com/ghpvc/?username=vishaltalreja01&style=flat-square&color=111827&label=profile+views" alt="Profile views" />
+</p>
 
+---
 
-## 📊 My Github History
+## About me
 
-<details>
-  <summary>⚡ Github Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox&hide_border=true" alt="Vishal's Github Stats" />
-</details>
+- 🚀 Leading a small team at **Volantinopiù**, building a digital signage ecosystem end to end.
+- 🎓 Pursuing a master's in **Data Science** at the University of Naples Federico II.
+- 🧭 Focus: full stack product engineering — React / Next.js front ends, NestJS APIs, PostgreSQL, Docker & Kubernetes.
+- 🌍 Based in Salerno, Italy (CET). English (C1) · Urdu · Sindhi.
+- 💬 Ask me about React, Next.js, Astro, NestJS, Oracle APEX or shipping side projects.
 
+## 🧰 Tech stack
 
-<details>
-  <summary>🔥 GitHub Streak Stats</summary>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vishaltalreja01&theme=gruvbox&hide_border=true" alt="Vishal's GitHub Streak Stats" />
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,html,css,tailwind,materialui&perline=9" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nestjs,php,prisma,postgres,mysql,supabase&perline=9" alt="Backend and databases" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,figma&perline=9" alt="DevOps and tools" />
+</p>
 
+Also: Strapi · Chakra UI · Oracle · Oracle APEX · SQL
 
-<details>
-  <summary>🏆 Github Trophies</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=vishaltalreja01&theme=nord" alt="Vishal's Github Activity Graph" />
-</details>
+## 🛠️ Selected work
 
-<details>
-  <summary>🖱️ Most used languages</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaltalreja01&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="Vishal's Github Language Stats" />
-</details>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Savvy Consultants](https://savvyconsultants.netlify.app/) | Company website for a consultancy | Next.js · React · Prisma · Tailwind |
+| [Kava Up LLC](https://kavaup.io/) | Company website with a headless CMS | Next.js · React · Tailwind · Strapi |
+| [Melo Music Player](https://github.com/vishaltalreja01/melomusicplayer) | Browser-based music player | HTML · CSS · JavaScript |
+| [UHQ Logs](https://github.com/vishaltalreja01/UHQLogs-E-Commerce-Website) | E-commerce platform (100+ products, Coinbase payments) | PHP · JavaScript · SQL |
 
+More on my [portfolio →](https://vishal-talreja.netlify.app)
 
-<br>
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 26th, 2025, 03:30:00 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+## 💼 Experience
+
+- **Lead Full Stack Developer** — Volantinopiù Srl, Naples
+- **Oracle APEX Developer** — Pakistan State Oil (PSO), Karachi
+- **Software Developer** — Kava Up LLC, remote
+- **Web Developer Lead** — RKP Center, Pakistan
+- **Frontend Developer** — Fiverr, freelance
+
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&hide_border=true&theme=transparent&title_color=E8501B&icon_color=E8501B" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaltalreja01&layout=compact&hide_border=true&theme=transparent&title_color=E8501B" alt="Most used languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=vishaltalreja01&hide_border=true&theme=transparent&ring=E8501B&fire=E8501B&currStreakLabel=E8501B" alt="GitHub streak" />
