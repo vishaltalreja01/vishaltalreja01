@@ -23,7 +23,7 @@
 - 🚀 Leading a small team at **Volantinopiù**, building a digital signage ecosystem end to end.
 - 🎓 Pursuing a master's in **Data Science** at the University of Naples Federico II.
 - 🧭 Focus: full stack product engineering — React / Next.js front ends, NestJS APIs, PostgreSQL, Docker & Kubernetes.
-- 🌍 Based in Salerno, Italy (CET). English (C1) · Urdu · Sindhi.
+- 🌍 Based in Salerno, Italy (CET). English (C1) · Italian · Urdu ·
 - 💬 Ask me about React, Next.js, Astro, NestJS, Oracle APEX or shipping side projects.
 
 ## 🧰 Tech stack
